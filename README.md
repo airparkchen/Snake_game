@@ -28,3 +28,4 @@ This is a simple Django project that serves a basic "Snake Game" implemented wit
 ## Usage
 
 Use the arrow keys to control the snake. Eat the red apples to grow. Avoid running into the walls or the snake's own body.
+"# TEST" 
