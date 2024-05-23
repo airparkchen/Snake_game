@@ -20,8 +20,8 @@ This is a simple Django project that serves a basic "Snake Game" implemented wit
  **Clone the repository**:
 
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/airparkchen/Snake_game.git
+    cd Snake_game
     ```
  **Access the application**:
     after setting up.
