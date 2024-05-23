@@ -2,7 +2,7 @@
 
 This is a simple Django project that serves a basic "Snake Game" implemented with HTML5 Canvas and JavaScript.
 
-![Description](images/demo.gif)
+![Description](demo.gif)
 
 ## Features
 
